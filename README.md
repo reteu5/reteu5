@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 😎
 
 <!--
 **reteu5/reteu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/reteu5"
+      width="600"
+      height="300"
+    />
+  </a>
+</p>
+
+<hr />
